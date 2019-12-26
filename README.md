@@ -28,6 +28,7 @@ Recorded herein are the chronicles of the caretakers of Butterskull Ranch. You h
 ### Players
 * Dimble
 * Gabranth
+* Scar
 * Tenaj
 * TK Crumback
 
