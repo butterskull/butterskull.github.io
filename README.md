@@ -1,12 +1,12 @@
 # Welcome to Butterskull Ranch
-This project contains notes and tools related to the adventures at Butterskull Ranch. You have been warned.
+Recorded herein are the chronicles of the caretakers of Butterskull Ranch. You have been warned.
 
-1. [The story](#the-story-so-far...)
-    1. Episode 01
-    2. Episode 02
-    3. Episode 03
-2. [Locations](#locations)
-3. [Characters](#characters)
+* 1 [The story](#the-story-so-far...)
+ * 1.1 Episode 01
+ * 1.2 Episode 02
+ * 1.3 Episode 03
+* 2 [Locations](#locations)
+* 3 [Characters](#characters)
 
 ## The story so far...
 ### Episode 01 - The Adventure Begins
