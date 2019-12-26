@@ -6,7 +6,7 @@ This section contains information on NPCs that has been discovered by players.
 ## Doberan Flank
 * Details about Doberan
 
-## Toblen
+## Toblen Stonehill
 * Details about Toblen
 
 ## Dazlyn & Norbus

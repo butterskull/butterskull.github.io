@@ -34,3 +34,6 @@ Recorded herein are the chronicles of the caretakers of Butterskull Ranch. You h
 
 ### NPCs
 * [Doberan Flank](npc.md#doberan-flank)
+* [Toblen Stonehill](npc.md#toblen-stonehill)
+* [Adabra Gwynn](npc.md#adabra-gwynn)
+* [Dazlyn & Norbus](npc.md#dazlyn-&-norbus)
