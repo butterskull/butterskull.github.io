@@ -2,9 +2,9 @@
 Recorded herein are the chronicles of the caretakers of Butterskull Ranch. You have been warned.
 
 * 1 [The story](#the-story-so-far...)
- * 1.1 Episode 01
- * 1.2 Episode 02
- * 1.3 Episode 03
+    * 1.1 Episode 01
+    * 1.2 Episode 02
+    * 1.3 Episode 03
 * 2 [Locations](#locations)
 * 3 [Characters](#characters)
 
