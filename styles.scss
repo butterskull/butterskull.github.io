@@ -1,0 +1,35 @@
+$primary-color: lightyellow;
+$secondary-color: grey;
+$bg: black;
+$typeface: Helvetica, Arial, sans-serif;
+$base-units: .25rem;
+
+body {
+  background-color: $bg;
+  font-family: $typeface;
+  font-size: ($base-units * 5);
+  line-height: ($base-units * 4);
+  padding: $base-units * 5;
+  color: $primary-color;
+}
+
+h1 {
+  color: $primary-color;
+  background-color: $bg;
+  font-size: ($base-units * 10);
+  line-height: ($base-units * 12);
+}
+
+h2 {
+  color: $secondary-color;
+  background-color: $bg;
+  font-size: ($base-units * 8);
+  line-height: ($base-units * 10);
+}
+
+p {
+  color: $secondary-color;
+  background-color: $bg;
+  font-size: ($base-units * 5);
+  line-height: ($base-units * 7)
+}
