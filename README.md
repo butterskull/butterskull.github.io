@@ -1,6 +1,10 @@
 # Welcome to Butterskull Ranch
 This project contains notes and tools related to the adventures at Butterskull Ranch. You have been warned.
 
+1. [The story](#The%20story%20so%20far...)
+2. [Locations](#Locations)
+3. [Characters](#Characters)
+
 ## The story so far...
 ### Episode 01 - The Adventure Begins
 * notes on episode 1
