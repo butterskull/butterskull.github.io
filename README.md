@@ -1,9 +1,9 @@
 # Welcome to Butterskull Ranch
 This project contains notes and tools related to the adventures at Butterskull Ranch. You have been warned.
 
-1. [The story](#The%20story%20so%20far...)
-2. [Locations](#Locations)
-3. [Characters](#Characters)
+1. [The story](#the-story-so-far...)
+2. [Locations](#locations)
+3. [Characters](#characters)
 
 ## The story so far...
 ### Episode 01 - The Adventure Begins
@@ -29,4 +29,4 @@ This project contains notes and tools related to the adventures at Butterskull R
 * TK Crumback
 
 ### NPCs
-* [Doberan Flank](npc.md#Doberan%20Flank)
+* [Doberan Flank](npc.md#doberan-flank)
