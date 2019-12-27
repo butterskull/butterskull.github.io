@@ -65,11 +65,19 @@ The Redbrand officer applauded the performance, then said, "So... you must be [T
 
 With a loud yell, the man halted the chaos of the bar and pointed to the force of four. "There they are. These four are guilty. They summoned a dragon that nearly killed me and they murdered Adabra Gwynn. You'll answer to the Lord of Neverwinter for this. You're all under arrest." He then handed [TK](players.md#tk-crumback) a parchment with the following words on it:
 
-<div style="padding:20px; color:white;">Good townfolk of Phandalin, take heed! Four among you have brought imminent danger to our humble doorsteps. Perhaps you have heard of these so-called adventurers whose ravenous appetite for fortune and glory curses us all! Dealing with these miscreants has already caused one of your own to be stricken blind, and now an unnatural darkness covers the land threatening our bountiful harvest!
+<div class="note">
+<p>Good townfolk of Phandalin, take heed!</p>
+<p>Four among you have brought imminent danger to our humble doorsteps. Perhaps you have heard of these so-called adventurers whose ravenous appetite for fortune and glory curses us all! Dealing with these miscreants has already caused one of your own to be stricken blind, and now an unnatural darkness covers the land threatening our bountiful harvest!</p>
+<p>Trust that the lordship of Neverwinter is actively investigating the link between this band of fiends and the recent signs of evil magick. If you have information that leads to the arrest of:</p>
+</div>
+* [Gabranth](players.md#gabranth)
+* [Tenaj](players.md#tenaj)
+* [TK Crumback](players.md#tk-crumback) or...
+* [Dimble the Gnome](players.md#dimble)
 
-Trust that the lordship of Neverwinter is actively investigating the link between this band of fiends and the recent signs of evil magick. If you have information that leads to the arrest of: [Gabranth](players.md#gabranth), [Tenaj](players.md#tenaj), [TK Crumback](players.md#tk-crumback), or [Dimble](players.md#dimble) the Gnome, please report it to your local Redbrand security agent immediately to receive a 100 gold piece reward.
+<div class="note"><p>please report it to your local Redbrand security agent immediately to receive a 100 gold piece reward.</p>
 
-Together, we will drive these villians from our land and save the Sword Coast!</div>
+<p>Together, we will drive these villians from our land and save the Sword Coast!</p></div>
 
 Doberan then commanded the Scar to handcuff the accused. The four were arrested, then taken outside and loaded onto the back of a cart that was already quite full with rations, cold-weather gear, and other provisions. The sky was completely dark and had been since the four encountered the dragon yesterday. Doberan lit a torch and saddled up on Luck, that magnificent creature, while Scar took the driver's seat on the supply cart. Without a word, the entire group left Phandalin for good. 
 
@@ -91,11 +99,9 @@ A barn cat that was enjoying the show sidled up and wrapped his tail around a le
 
 Shaking it off, Scar went to the only place in the farmhouse they hadn't been yet... the basement. In the basement, they found the bound and bloody body of Big Al. Inspecting the body, it was clear that Big Al had gone to the great ranch in the sky. But, a note was found in the lining of his hat. It read:
 
-    Scar,
-
-    If you're reading this, then you have found me dead. I had so hoped you would find me well. 
-
-    Uncle Al
+<div class="note"><p>Scar,</p>
+<p>If you're reading this, then you have found me dead. I had so hoped you would find me well.</p>
+<p>Uncle Al</p>
 
 It was then that [TK](players.md#tk-crumback) remembered the package he had found in the well outside! He gave the package to Scar who opened it and discovered that it was Big Al's last will and testament which, among other declarations, named Scar as the new owner of Butterskull Ranch and all it's associated features and properties. The group walked back upstairs and looked at each other. It had only been four days since they met at the Stonehill Inn, and so much had happened. So much had changed. Could Doberan really kill a dragon? Why is the sky so dark all the time now? Is Dazlyn really cursed? Did someone really murder Adabra Gwynn? Something told them they would find out soon enough.
 
