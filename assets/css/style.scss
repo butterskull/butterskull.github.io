@@ -23,6 +23,7 @@ body {
 
 main.main-content h1, main.main-content h2, main.main-content h3, main.main-content h4, main.main-content h5, main.main-content h6 {
     color: $primary-color;
+    margin-top: 1rem;
 }
 
 main.main-content h3 + h4, main.main-content h3 + h5 {
@@ -46,4 +47,9 @@ footer.site-footer {
 div.note {
     padding: 20px;
     color: white;
+}
+
+.main-content table th, .main-content table td {
+    padding: .4rem;
+    border: 1px solid $secondary-color;
 }
