@@ -12,10 +12,13 @@ $font-base: 1rem;
 $font-small: .75rem;
 $font-xsmall: .5rem;
 
+html {
+    font-size: 20px;
+}
+
 body {
     background-color: $color-bg;
     color: $secondary-color;
-    font-size: 20px;
 }
 
 main.main-content h1, main.main-content h2, main.main-content h3, main.main-content h4, main.main-content h5, main.main-content h6 {
