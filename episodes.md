@@ -106,6 +106,7 @@ Shaking it off, [Scar](players.md#scar) went to the only place in the farmhouse 
 <div class="note"><p>Scar,</p>
 <p>If you're reading this, then you have found me dead. I had so hoped you would find me well.</p>
 <p>Uncle Al</p>
+</div>
 
 It was then that [TK](players.md#tk-crumback) remembered the package he had found in the well outside! He gave the package to [Scar](players.md#scar) who opened it and discovered that it was Big Al's last will and testament which, among other declarations, named [Scar](players.md#scar) as the new owner of Butterskull Ranch and all it's associated features and properties. The group walked back upstairs and looked at each other. It had only been four days since they met at the Stonehill Inn, and so much had happened. So much had changed. Could [Doberan](npc.md#doberan-flank) really kill a dragon? Why is the sky so dark all the time now? Is [Dazlyn](npc.md#dazlyn-grayshard) really cursed? Did someone really murder [Adabra Gwynn](npc.md#adabra-gwynn)? Something told them they would find out soon enough.
 
