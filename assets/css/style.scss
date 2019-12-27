@@ -18,11 +18,11 @@ body {
     font-size: 20px;
 }
 
-section.main-content h1, section.main-content h2, section.main-content h3, section.main-content h4, section.main-content h5, section.main-content h6 {
+main.main-content h1, main.main-content h2, main.main-content h3, main.main-content h4, main.main-content h5, main.main-content h6 {
     color: $primary-color;
 }
 
-section.page-header {
+header.page-header {
     display: none;
 }
 
