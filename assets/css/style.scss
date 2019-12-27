@@ -3,11 +3,14 @@
 
 @import "{{ site.theme }}";
 
-$color-bg: #333;
+$color-bg: #010101;
 $primary-color: #FFCD00;
+$secondary-color: #94a8b1;
+$highlight-color: #7eff36;
 
 body {
     background-color: $color-bg;
+    color: $secondary-color;
 }
 
 section.main-content h1, section.main-content h2, section.main-content h3, section.main-content h4, section.main-content h5, section.main-content h6 {
@@ -16,4 +19,8 @@ section.main-content h1, section.main-content h2, section.main-content h3, secti
 
 section.page-header {
     display: none;
+}
+
+a {
+    color: $highlight-color;
 }
