@@ -8,9 +8,14 @@ $primary-color: #FFCD00;
 $secondary-color: #94a8b1;
 $highlight-color: #7eff36;
 
+$font-base: 1rem;
+$font-small: .75rem;
+$font-xsmall: .5rem;
+
 body {
     background-color: $color-bg;
     color: $secondary-color;
+    font-size: 20px;
 }
 
 section.main-content h1, section.main-content h2, section.main-content h3, section.main-content h4, section.main-content h5, section.main-content h6 {
@@ -23,4 +28,9 @@ section.page-header {
 
 a {
     color: $highlight-color;
+}
+
+footer.site-footer {
+    border-top: solid 1px $secondary-color;
+    font-size: $font-xsmall;
 }
