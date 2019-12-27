@@ -26,6 +26,10 @@ main.main-content h1, main.main-content h2, main.main-content h3, main.main-cont
     margin-top: 1rem;
 }
 
+main.main-content h1 {
+    margin-top: 2rem;
+}
+
 main.main-content h3 + h4, main.main-content h3 + h5 {
     margin-top: .2rem;
 }
@@ -50,6 +54,7 @@ div.note {
 }
 
 .main-content table th, .main-content table td {
+    font-size: $font-small;
     padding: .4rem;
     border: 1px solid $secondary-color;
 }
