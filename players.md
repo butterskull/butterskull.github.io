@@ -3,10 +3,10 @@
 # Players
 The force of four, have now become five...
 
-* [Dimble](#episode-01)
-* [Gabranth Bunansa](#episode-02)
+* [Dimble](#dimble)
+* [Gabranth Bunansa](#gabranth-bunansa)
 * [Scar](#the-scar)
-* [Tenaj](#episode-03)
+* [Tenaj](#tenaj)
 * [TK Crumback](#tk-crumback)
 
 ## Dimble
@@ -62,5 +62,5 @@ _Coming soon_
 | [D&D Beyond](https://www.dndbeyond.com/profile/badlin/characters/17102170) |
 
 **Backstory**  
-_Coming soon_
+TK Crumback grew up in a small village, leaving at age 19 to study as an acolyte in the light domain. After completing his studies, he was struck by wanderlust and took to the road as a traveling holy man. He spent nearly a decade in the woods, befriending a forest gnome Druid called Dimble who taught him the Druidic language. Eventually he left for the coast, where he joined the crew of a ship as its spiritual leader. He’s recently disembarked to return to a life of rambling adventure.
 
