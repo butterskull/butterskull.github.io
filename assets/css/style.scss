@@ -3,6 +3,17 @@
 
 @import "{{ site.theme }}";
 
+$color-bg: #333;
+$primary-color: #FFCD00;
+
+body {
+    background-color: $color-bg;
+}
+
+section.main-content h1, section.main-content h2, section.main-content h3, section.main-content h4, section.main-content h5, section.main-content h6 {
+    color: $primary-color;
+}
+
 section.page-header {
     display: none;
 }
