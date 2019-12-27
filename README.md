@@ -10,20 +10,17 @@ Recorded herein are the chronicles of the caretakers of Butterskull Ranch. Guara
 
 ## The story so far...
 ### Episode 01
-Players: Dimble, Gabranth, Tenaj, TK Crumback
 #### The Adventure Begins
 **??/??/??**
 Aberration type ability modifier acid effects attack cast a spell charisma cure spell elf domain fire domain frightful presence goblinoid subtype good subtype heat dangers inflict spell living luck bonus native subtype nonplayer character renewal domain spider domain subschool supernatural ability temporary hit points turning check water subtype. [Read more](episodes.md#episode-01)
 
 ### Episode 02
 #### The Battle for Umbrage Hill
-Players: Dimble, Gabranth, Tenaj, TK Crumback
 **??/??/??**
 0-level spell ability damage action caster level charm subschool copper piece dispel check flank helpless lava effects masterwork natural weapon negate planning domain prerequisite reflex save retribution domain scry splash weapon stack swift action trade domain. [Read more](episodes.md#episode-02) 
 
 ### Episode 03
 #### The Long Cold Dark
-Players: Dimble, Gabranth, Scar, Tenaj, TK Crumback
 **??/??/??**
 Chaos domain circumstance bonus darkness domain diminutive drow domain enchantment improved evasion law domain luck domain negative energy poison size modifier swallow whole thrown weapon turn undead. [Read more](episodes.md#episode-03)
 
