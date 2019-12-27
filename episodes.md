@@ -10,6 +10,7 @@ The following notes have been collected from unreliable sources and shattered me
 
 ## Episode 01
 ### The Adventure Begins
+#### Dimble, Gabranth, Tenaj, TK Crumback
 
 One misty morning long ago, a sullen elven ranger known only by the name of [Gabranth](players.md#gabranth) emerged silently from the forest's edge and approached [Phandalin](locations.md#phandalin). It was the first town he'd visited in near a tenday. Normally he preferred the comfort of the wilderness and avoided urban affairs, but his search for a rumored dragon had run cold and he needed a lead. Besides, this modest town was hardly the big city that [Neverwinter](locations.md#neverwinter) was. He focused on his intended mission, passed several shuttered buildings on the oddly empty street, and approached the town's only inn.
 
@@ -30,6 +31,7 @@ Feeling significantly stronger, slightly richer, and not much worse for wear, th
 
 ## Episode 02
 ### The Battle for Umbrage Hill
+#### Dimble, Gabranth, Tenaj, TK Crumback
 
 The next day, three of the force of four awoke in their rooms at the Stonehill Inn. [Gabranth](players.md#gabranth) was already downstairs, feeling refreshed from his overnight meditation in the nearby forest. As they all started their day, they each noticed that the ground floor of the inn was slightly more crowded this morning than it had been the day before. While they were convening at the bar and exchanging morning pleasantries with [Toblen](npc.md#toblen-stonehill), a hulk of a man in battle-hardened leather and rusting chainmail armor burst in through the front door and called [Toblen](npc.md#toblen-stonehill) to a private conference. [TK](players.md#tk-crumback) overheard that the man was irritated due to the fact that a shipment of provisions he was expecting was delayed by a full day. With nothing to do but wait, the greasy beefcake of a stranger chomped on a carved toothpick and turned his attention to the patrons of the inn. Before long he was hurling insults and barking orders while pounding mugs of ale like shots of whisky. The man was [Doberan Flank](npc.md#doberan-flank), or so he told the force when he was asked.
 
@@ -60,6 +62,7 @@ Talking to [Norbus](npc.md#norbus-ironrune) revealed that [Dazlyn](npc.md#dazlyn
 
 ## Episode 03
 ### The Long Cold Dark
+#### Dimble, Gabranth, Scar, Tenaj, TK Crumback
 
 Everyone in the force went to bed shortly after they got back the night before, except for [Gabranth](players.md#gabranth). Isolating himself to a corner of the bar where he was mostly out of the way in the now uncomfortably crowded inn, he stayed awake drinking and thinking. Eventually, stimulation gave way to exhaustion and he, too, retired to the forest for a deep slumbering meditation. As the four slept, they were troubled with nightmarish visions of a hellish future. There were crowds of people in horseless carriages and they all had polished sending stones. Everyone was subservient to a small number of absurdly wealthy and supremely powerful rulers and they were constantly under threat of something called 'financial insolvency'. Happily, the four were briefly awakened by a loud noise, before quickly falling asleep again. This time the four each dreamt of earlier days gone by and, although those days weren't all good ones, all of those days at least seemed somehow better by comparison to what had happened yesterday.
 
