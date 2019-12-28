@@ -28,7 +28,7 @@ Built on the slope of Umbrage Hill is an old stone windmill surrounded by an iro
 
 ## Lionshield Coster
 
-**Description**
+**Description**  
 Hanging above the front door of this modest trading post is a sign shaped like a wooden shield with a blue lion painted on it.
 
 ## Dwarven Excavation

@@ -25,19 +25,21 @@ The next day, three of the force of four awoke in their rooms at the Stonehill I
 Everyone in the force went to bed shortly after they got back the night before, except for Gabranth. Isolating himself to a corner of the bar where he was mostly out of the way in the now uncomfortably crowded inn, he stayed awake drinking and thinking. Eventually, stimulation gave way to exhaustion and he, too, retired to the forest for a deep slumbering meditation. As the four slept, they were troubled with nightmarish visions of a hellish future. There were crowds of people in horseless carriages and they all had polished sending stones. Everyone was subservient to a small number of absurdly wealthy and supremely powerful rulers and they were constantly under threat of something called 'financial insolvency'. Happily, the four were briefly awakened by a loud noise, before quickly falling asleep again. This time the four each dreamt of earlier days gone by and, although those days weren't all good ones, all of those days at least seemed somehow better by comparison to what had happened yesterday. [Read&nbsp;more](episodes.md#episode-03)
 
 ## Locations
-* [Phandalin](locations.md#phandalin)
-* [Dwarven Excavation](locations.md#dwarven-excavation)
-* [Umbrage Hill](locations.md#umbrage-hill)
 * [Butterskull Ranch](locations.md#butterskull-ranch)
 * [Conyberry](locations.md#conyberry)
+* [Umbrage Hill](locations.md#umbrage-hill)
+* [Lionshield Coster](locations.md#lionshield-coster)
+* [Dwarven Excavation](locations.md#dwarven-excavation)
+* [The Stonehill Inn](locations.md#the-stonehill-inn)
+* [Phandalin](locations.md#phandalin)
 
 ## Characters
 ### Players
-* <a href="https://www.dndbeyond.com/profile/memily_mike/characters/17102101" target="_blank">Dimble</a>
-* <a href="https://www.dndbeyond.com/profile/GabranthBunansa/characters/16964899" target="_blank">Gabranth</a>
-* <a href="https://www.dndbeyond.com/profile/TheScar/characters/19843629" target="_blank">Scar</a>
-* <a href="https://www.dndbeyond.com/profile/Shakeyourjunk/characters/16848230" target="_blank">Tenaj</a>
-* <a href="https://www.dndbeyond.com/profile/badlin/characters/17102170" target="_blank">TK Crumback</a>
+* [Dimble](players.md#dimble)
+* [Gabranth Bunansa](players.md#gabranth-bunansa)
+* [Scar](players.md#the-scar)
+* [Tenaj](players.md#tenaj)
+* [TK Crumback](players.md#tk-crumback)
 
 ### NPCs
 * [Doberan Flank](npc.md#doberan-flank)
