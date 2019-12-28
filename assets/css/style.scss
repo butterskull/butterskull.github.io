@@ -60,10 +60,10 @@ div.note {
 .main-content table th, .main-content table td {
     font-size: $font-small;
     padding: .4rem;
-    border: 1px solid $secondary-color;
+    border: solid 1px $secondary-color;
 }
 
 p.read-more {
     margin-bottom: 2rem;
-    border: 1px solid $secondary-color;
+    border-top: solid 1px $secondary-color;
 }
