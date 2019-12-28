@@ -14,7 +14,8 @@ This page contains details of the locations that have been discovered to date.
 ## Butterskull Ranch
 
 **Description**  
-Butterskull Ranch occupies a large plot of land on the north side of the Triboar Trail, nestled between two hills. Beyond a ramshackle wooden fence stand corn fields, an apple orchard, gardens, and pasture land. A path breaks off from the trail to lead to a two-story farmhouse next to a pond. West of the farmhouse are the charred remains of a barn and smithy that have been burned to the ground.
+Butterskull Ranch occupies a large plot of land on the north side of the Triboar Trail, nestled between two hills. Beyond a ramshackle wooden fence stand corn fields, an apple orchard, gardens, and pasture land. A path breaks off from the trail to lead to a two-story farmhouse next to a pond. West of the farmhouse are the charred remains of a barn and smithy that have been burned to the ground.  
+_Current owner: Scar_
 
 ## Conyberry
 
