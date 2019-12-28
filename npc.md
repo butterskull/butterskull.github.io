@@ -40,8 +40,8 @@ The master of the Phandalin post is a sharp-tongued human woman of thirty-five n
 ##### With Luck, we'll make it by sundown.
 
 **Description**  
-> The horse's coat was a glistening black and its deep dark eyes were decorated with eyelashes so long that the perceptive among us noticed them before almost anything else. A flowing mane draped leisurely over the horse's thick neck and its matching tail hung almost to the ground. Ornately embroidered in silky green thread on the side of his well-oiled pitch black saddle was a single word in cursive, Luck. Luck's reins and bridle were clearly expertly crafted in black leather with shiny green powder-coated iron linkages. Adorning the saddle on each side were four emerald inlaid four-leaf clovers about two inches in diameter. Even Luck's shoes were customized with four-leaf clovers that left a distinct footprint behind him when he walked. 
-- Episode 02, The Battle for Umbrage Hill
+> The horse's coat was a glistening black and its deep dark eyes were decorated with eyelashes so long that the perceptive among us noticed them before almost anything else. A flowing mane draped leisurely over the horse's thick neck and its matching tail hung almost to the ground. Ornately embroidered in silky green thread on the side of his well-oiled pitch black saddle was a single word in cursive, Luck. Luck's reins and bridle were clearly expertly crafted in black leather with shiny green powder-coated iron linkages. Adorning the saddle on each side were four emerald inlaid four-leaf clovers about two inches in diameter. Even Luck's shoes were customized with four-leaf clovers that left a distinct footprint behind him when he walked.  
+**Episode 02, The Battle for Umbrage Hill**
 
 ## Doberan Flank
 ### Leader of the Stonefrost Reavers
