@@ -48,7 +48,13 @@ Everyone in the force went to bed shortly after they got back the night before, 
 * [TK Crumback](players.md#tk-crumback)
 
 ### NPCs
-* [Doberan Flank](npc.md#doberan-flank)
-* [Toblen Stonehill](npc.md#toblen-stonehill)
+* [Alfonse 'Big Al' Kalazorn](npc.md#alfonse-kalazorn)
 * [Adabra Gwynn](npc.md#adabra-gwynn)
-* [Dazlyn & Norbus](npc.md#dazlyn-&-norbus)
+* [Linene Graywind](npc.md#linene-graywind)
+* [Luck](npc.md#luck)
+* [Doberan Flank](npc.md#doberan-flank)
+* [Harbin Wester](npc.md#harbin-wester)
+* [Dazlyn Grayshard](npc.md#dazlyn-grayshard)
+* [Norbus Ironrune](npc.md#norbus-ironrune)
+* [Fenryl](npc.md#fenryl)
+* [Toblen Stonehill](npc.md#toblen-stonehill)
