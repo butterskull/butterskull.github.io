@@ -144,11 +144,11 @@ The sky was dark and moonlit, with thick clouds that twisted above them into inf
 
 The events that followed their choice are a blur. They certainly saw the landscape of Faerun flash by below them before their individual energies were transported into other beings. In these new forms, the group seemed to both exist and not exist. It was as though they had total control and zero control over their new corporeal hosts. They were simultaneously pressed for time and existing outside of it. Looking at each other, they were clearly a group of some kind as they were dressed plainly but uniformly. The only adornments they each wore were small dark iron harps that clung pinned their cloaks.
 
-Gabranth found himself in the body of Finch, an Aarakocra druid.
-Tenaj found herself in the body of Mock, a half-orc barbarian.
-Dimble found himself in the body of Raven, a half-elf warlock.
-TK found himself in the body of Sparrow, an elf ranger.
-They were also joined by Cardinal, a dragonborn paladin who seemed to be their leader.
+- [Gabranth](players.md#gabranth) found himself in the body of [Finch](https://ddb.ac/characters/22603003/1ajwrZ), an Aarakocra druid.
+- [Tenaj](players.md#tenaj) found herself in the body of [Mock](https://ddb.ac/characters/22602034/5xXHYu), a half-orc barbarian.
+- [Dimble](players.md#dimble) found himself in the body of [Raven](https://ddb.ac/characters/22601984/65mZaw), a half-elf warlock.
+- [TK](players.md#tk-crumback) found himself in the body of [Sparrow](https://ddb.ac/characters/22602046/2Ub5V3), an elf ranger.
+- They were also joined by [Cardinal](https://ddb.ac/characters/22601892/VVFkB7), a dragonborn paladin who seemed to be their leader.
 
 The confusion of their recent transcorporealization was amplified by the total chaos of a town being raided, but what can be remembered is this. Greenest was in flames. The group fought as fiercely and bravely as they would have in their own bodies, slaying cultist and kobolds, outsmarting ambush drakes, and saving as many townsfolk as they could by evacuating them to the keep. 
 
