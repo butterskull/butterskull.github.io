@@ -5,6 +5,8 @@ Recorded herein are the chronicles of the caretakers of Butterskull Ranch. Guara
     * [1.1 Episode 01](#episode-01)
     * [1.2 Episode 02](#episode-02)
     * [1.3 Episode 03](#episode-03)
+    * [1.4 Episode 04](#episode-04)
+    * 1.5 Episode 05 (...coming soon)
 * [2 Characters](#characters)
 * [3 Locations](#locations)
 
@@ -34,7 +36,14 @@ Everyone in the force went to bed shortly after they got back the night before, 
   
 [Read&nbsp;more&nbsp;›](episodes.md#episode-03)
 <p class="read-more">&nbsp;</p>
+
+### Episode 04
+#### Meanwhile...
+**2020/02/01**  
+Scar had been grievously injured in his fight with the war chief, and he dropped a small trail of blood behind him as his two newly-committed orc tribesmen shuffled his bulky mass slowly down the hallway to what was now his new bedroom. Big Al's old bed creaked a loud complaint when Scar collapsed onto the mattress and slipped out of consciousness once more. Suffering the dual exhaustions of travel and battle that had become well-known to the group as of late, the long rest was more than welcome when the night came and everyone found a place at the ranch to sleep or meditate comfortably.
   
+[Read&nbsp;more&nbsp;›](episodes.md#episode-04)
+<p class="read-more">&nbsp;</p>
 
 ## Characters
 ### Players
@@ -55,6 +64,11 @@ Everyone in the force went to bed shortly after they got back the night before, 
 * [Norbus Ironrune](npc.md#norbus-ironrune)
 * [Fenryl](npc.md#fenryl)
 * [Toblen Stonehill](npc.md#toblen-stonehill)
+* Sparrow
+* Raven
+* Mock
+* Finch
+* Cardinal
 
 ## Locations
 * [Butterskull Ranch](locations.md#butterskull-ranch)
@@ -64,3 +78,4 @@ Everyone in the force went to bed shortly after they got back the night before, 
 * [Dwarven Excavation](locations.md#dwarven-excavation)
 * [The Stonehill Inn](locations.md#the-stonehill-inn)
 * [Phandalin](locations.md#phandalin)
+* Greenest
