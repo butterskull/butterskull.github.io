@@ -1,7 +1,7 @@
 # Welcome to Butterskull&nbsp;Ranch
 Recorded herein are the chronicles of the caretakers of Butterskull Ranch. Guarantees of quality are neither explicit nor implied. You have been warned.
 
-* [1 The story so far...](#the-story-so-far...)
+* 1 The story so far...
     * [1.1 Episode 01](#episode-01)
     * [1.2 Episode 02](#episode-02)
     * [1.3 Episode 03](#episode-03)
