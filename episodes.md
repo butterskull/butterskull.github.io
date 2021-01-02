@@ -171,6 +171,7 @@ Before long they were pulled toward another bright spot on one of the threads, w
 Volen, now cold and unsmiling, squinted her eyes at the group and replied, "They saw... exactly what they needed to see."
 
 <div class="note"><p>Reported by: Cardinal<br />Location: Greenest</p>
+<p>Nightal 1, 1493</p>
 <p>The invasion of Greenest by the Zentharim cult of the dragon has been repelled, but at great cost. While scouting the town with Sparrow, Finch, Mock, and Raven the town was set upon by an invading force consisting of cultists, acolytes, and monstrosities including kobolds and ambush drakes. A great many citizens and artisans of the town were killed in the invasion.</p>
 <p>The presence of Lennithon was confirmed with my own eyes. There is indeed an adult blue dragon threat to Waterdeep, just as we feared. Somehow, Lennithon is working with or for the Zenth cultists, it is not yet clear which.</p>
 <p>As for Greenest, Governor Nighthill has garrisoned what is left of the townsfolk in the keep, where I expect they will remain for a few days in case the invaders decide to come back for another round. Although the town has suffered a huge blow, they should be able to recover with some effort.</p>
