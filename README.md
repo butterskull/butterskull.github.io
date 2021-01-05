@@ -64,11 +64,17 @@ Shortly after discovering that he now owned Butterskull Ranch, it became obvious
 * [Norbus Ironrune](npc.md#norbus-ironrune)
 * [Fenryl](npc.md#fenryl)
 * [Toblen Stonehill](npc.md#toblen-stonehill)
+* War-Chief Jarrukh the Brutal
+* Orc Matron Volen
 * Sparrow
 * Raven
 * Mock
 * Finch
 * Cardinal
+* Governor Nighthill
+* Castellan Escobert the Red
+* J.J. Raskin
+* Burgell "Badger" Oneshoe
 
 ## Locations
 * [Butterskull Ranch](locations.md#butterskull-ranch)
@@ -79,3 +85,12 @@ Shortly after discovering that he now owned Butterskull Ranch, it became obvious
 * [The Stonehill Inn](locations.md#the-stonehill-inn)
 * [Phandalin](locations.md#phandalin)
 * Greenest
+
+## Monsters encountered
+* ~~Manticore~~
+* ~~Orc~~
+* ~~Orc War-Chief~~
+* ~~Kobold~~
+* ~~Ambush Drake~~
+* Cranium Rat
+* ~~Boggle~~
